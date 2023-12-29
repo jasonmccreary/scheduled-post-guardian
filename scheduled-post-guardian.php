@@ -1,14 +1,14 @@
 <?php
 /*
-Plugin Name: Scheduled Post Guardian
-Description: Watches over scheduled posts, so that no funny business interferes with their mission
-Version: 1.1.3
-License: GPLv2+
-Plugin URI: https://github.com/markjaquith/scheduled-post-guardian
-Author: Mark Jaquith
-Author URI: https://coveredweb.com/
-Requires at least: 5.2
-Requires PHP: 7.2
+ * Plugin Name: Scheduled Post Guardian
+ * Description: Watches over scheduled posts, so that no funny business interferes with their mission
+ * Version: 1.1.3
+ * License: GPLv2+
+ * Plugin URI: https://github.com/markjaquith/scheduled-post-guardian
+ * Author: Mark Jaquith
+ * Author URI: https://coveredweb.com/
+ * Requires at least: 5.2
+ * Requires PHP: 7.2
 
 ==========================================================================
 
