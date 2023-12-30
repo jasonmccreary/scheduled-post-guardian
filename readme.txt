@@ -4,8 +4,8 @@ Contributors: markjaquith
 Donate link: http://txfx.net/wordpress-plugins/donate
 Tags: future posts, scheduled posts, cron
 Requires at least: 3.8
-Tested up to: 5.8
-Stable tag: 2.0.1
+Tested up to: 6.4.2
+Stable tag: 2.0.3
 
 Watches over scheduled posts, and makes sure they don't miss their scheduled time
 
@@ -34,6 +34,10 @@ Normally, the plugin checks every 3 minutes. So it's possible the post might go 
 Yes. There are filters: `scheduled_post_guardian_delay_minutes` and `scheduled_post_guardian_stretch_delay_minutes`. Return a different number than 3 and 15 for those if you like.
 
 == Changelog ==
+
+= 2.0.3 =
+
+Bumping WP version
 
 = 2.0.1 =
 
